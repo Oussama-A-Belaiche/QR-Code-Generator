@@ -3,6 +3,10 @@
 
 This project is a simple QR code generator that takes a user input (like a URL or text) and generates a QR code for it. The QR code is displayed as an image on the page, and users can quickly generate a new one by entering a different text or URL.
 
+![image](https://github.com/user-attachments/assets/6a576226-656c-4e39-b6b5-c065b17d1b59)
+
+
+
 ## Features
 - Allows users to input any text or URL.
 - Generates a QR code dynamically using the `qrserver` API.
